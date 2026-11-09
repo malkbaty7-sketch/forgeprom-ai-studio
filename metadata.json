@@ -1,0 +1,7 @@
+{
+  "name": "Forgeprom Code Studio",
+  "description": "استوديو عربي احترافي لتحويل الأفكار الحرة إلى موجهات هندسية كاملة عالية الجودة (12 قسماً) متوافقة مع متطلبات الكود النظيف وRTL.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
